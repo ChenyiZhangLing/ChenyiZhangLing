@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChenyiZhangLing
+- 👋 Hi, I’m Chenyi Zhang, a linguist.
 - 👀 I’m interested in neurolinguistics, psycholinguistics and multilingualism.
 - ✨ I did my PhD at Department of Theoretical and Applied Linguistics, University of Cambridge, under the supervision of Prof. Ianthi Maria Tsimpli.
 - 📕 The title of my PhD thesis: Text-Picture Integration during Inferential Processing by L1 and L2 English and Chinese Speakers: Individual Differences and Script Effects
